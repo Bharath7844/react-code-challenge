@@ -1,0 +1,63 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "amazon",
+      "address": "410 Terry Ave Seattle, WA 98109",
+      "revenue": 100000,
+      "phone": 2062661000
+    },
+    {
+      "id": 2,
+      "name": "tesla",
+      "address": "3500 Dear Greek Road, CA 943204",
+      "revenue": 100000,
+      "phone": 8777983752
+    },
+    {
+      "id": 3,
+      "name": "google",
+      "address": "1600 Amphitheatre Parkway Mountain View, CA 94043 UnitedStates",
+      "revenue": 200000,
+      "phone": 2098511000
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bob McGullicutty",
+      "address": "1234 Amphitheatre Mountain View, TX 95051",
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "name": "Nicholas clause",
+      "address": "1600 Washington Street, SA 93435",
+      "companyId": 1
+    },
+    {
+      "id": 3,
+      "name": "Elon Musk",
+      "address": "4200 French Road, TX 12343",
+      "companyId": 2
+    },
+    {
+      "id": 4,
+      "name": "Nicholas cage",
+      "address": "5678 Adam Street, SC 87565",
+      "companyId": 2
+    },
+    {
+      "id": 5,
+      "name": "Bob McGullicutty",
+      "address": "1234 Amphitheatre Mountain View, TX 95051",
+      "companyId": 3
+    },
+    {
+      "id": 6,
+      "name": "Nicholas clause",
+      "address": "1600 Washington Street, SA 93435",
+      "companyId": 3
+    }
+  ]
+}
